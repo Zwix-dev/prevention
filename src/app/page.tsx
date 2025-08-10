@@ -65,7 +65,7 @@ export default function Home() {
 
         {/* Footer simple */}
         <div className="text-center text-sm text-gray-600">
-          <p>En cas de doute, contactez votre service informatique</p>
+          <p>En cas de doute, ne cliquez sur aucun lien reçu par sms. Allez sur les sites officiels. </p>
         </div>
       </div>
     </div>
