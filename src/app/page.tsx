@@ -7,11 +7,9 @@ import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 
 export default function Home() {
   const handleGoBack = () => {
-    if (window.history.length > 1) {
-      window.history.back()
-    } else {
+    
       window.location.href = "https://google.com"
-    }
+    
   }
 
   const handleReportSite = () => {
