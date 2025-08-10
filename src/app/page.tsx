@@ -26,7 +26,7 @@ export default function Home() {
           <AlertTriangle className="h-5 w-5 text-red-600" />
           <AlertTitle className="text-red-800 text-xl">Site potentiellement dangereux</AlertTitle>
           <AlertDescription className="text-red-700 mt-2">
-            Vous avez cliqué sur une URL suspecte. Ce site pourrait être une tentative d'arnaque.
+            Vous avez cliqué sur une URL suspecte. Ce site pourrait être une tentative d&apos;arnaque.
           </AlertDescription>
         </Alert>
 
@@ -55,7 +55,7 @@ export default function Home() {
           </CardHeader>
           <CardContent>
             <ul className="space-y-2 text-sm">
-              <li>• Vérifiez toujours l'URL avant de cliquer</li>
+              <li>• Vérifiez toujours l&apos;URL avant de cliquer</li>
               <li>• Tapez directement les adresses des sites importants</li>
               <li>• Méfiez-vous des liens dans les emails suspects</li>
               <li>• Utilisez vos marque-pages pour les sites habituels</li>
